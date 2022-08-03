@@ -1,0 +1,12 @@
+# PixelExperience-7420-Release
+Pixel Experience for 7420 based devices.
+
+Installation steps:
+1. Wipe cache, system, vendor partitions in TWRP
+2. Sideload or flash the zip file
+
+DO NOT FLASH GAPPS, ALREADY INCLUDED IN ROM
+
+DISCLAIMER: FLASHING THIS ROM WILL VOID YOUR WARRANTY, HENCE BLOWING THE KNOX FUSE INSIDE YOUR DEVICE. DO NOT PROCEED IF YOU WANT THAT.
+I AM NOT RESPSONSIBLE FOR ANY DAMAGE TO YOUR DEVICE. USE AT YOUR OWN RISK.
+
